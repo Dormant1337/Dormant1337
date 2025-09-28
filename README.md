@@ -3,8 +3,7 @@
 </div>
 
 ---
-
-### ⚡ Tech Stack
 <div align="center">
+### ⚡ Tech Stack
 <img src="https://skillicons.dev/icons?i=rust,c,cpp,git,github,linux,vscode,arch,md" />
 </div>
