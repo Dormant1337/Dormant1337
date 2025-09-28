@@ -5,5 +5,7 @@
 ---
 <div align="center">
 ### ⚡ Tech Stack
+</div>
+<div align="center">
 <img src="https://skillicons.dev/icons?i=rust,c,cpp,git,github,linux,vscode,arch,md" />
 </div>
