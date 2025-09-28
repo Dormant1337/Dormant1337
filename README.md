@@ -4,7 +4,7 @@
 
 ---
 <div align="center">
-### ⚡ Tech Stack
+<h1 style="font-size: 40px;">⚡ Tech Stack ⚡</h1>
 </div>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=rust,c,cpp,git,github,linux,vscode,arch,md" />
